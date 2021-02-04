@@ -14,5 +14,5 @@ int main() {
     
     std::cout << "Number squared is " << input*input << std::endl;
     
-    return 1;
+    return 0;
 }

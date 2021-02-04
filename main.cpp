@@ -13,4 +13,6 @@ int main() {
     
     std::cout << "Result of print_interval(1000, 1007): ";
     print_interval(1000, 1007);
+    
+    return 0;
 }
